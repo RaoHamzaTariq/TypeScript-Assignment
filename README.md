@@ -6,10 +6,10 @@ Welcome to the TypeScript Assignment Repository! This repository contains detail
 
 The repository is structured as follows:
 
-- **Question_1**: Solution to Question 1
-- **Question_2**: Solution to Question 2
+- **Answer_1**: Solution to Question 1
+- **Answer_2**: Solution to Question 2
 - ...
-- **Question_45**: Solution to Question 45
+- **Answer_45**: Solution to Question 45
 
 Feel free to navigate through the folders to explore and understand the solutions to each question individually.
 
